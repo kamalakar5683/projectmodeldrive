@@ -1,0 +1,12 @@
+Flask
+tensorflow
+numpy
+pillow
+flask-cors
+langchain_groq 
+langchain_core
+gdown
+python-dotenv
+gunicorn
+Flask-Limiter
+waitress
